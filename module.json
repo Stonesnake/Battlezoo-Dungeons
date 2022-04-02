@@ -1,0 +1,54 @@
+{
+  "name": "battlezoo-ancestries-dungeons-pf2e",
+  "title": "Battlezoo Ancestries: Dungeons by Roll for Combat",
+  "description": "Now, you are the dungeon!",
+  "author": "Roll for Combat",
+  "version": "1.0",
+  "flags": {
+    "battlezoo-ancestries-dungeons-pf2e": {
+      "pf2e-homebrew": {
+        "creatureTraits": {
+          "dungeon": "Dungeon"
+        },
+        "featTraits": {
+          "dungeon": "Dungeon"
+        }
+      }
+    }
+  },
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "9",
+  "packs": [
+    {
+      "label": "Battlezoo Ancestries: Dungeons - Ancestry",
+      "type": "Item",
+      "name": "pf2e-battlezoo-dungeon-ancestry",
+      "path": "packs/pf2e-battlezoo-dungeon-ancestry.db",
+      "system": "pf2e",
+      "package": "battlezoo-ancestries-dungeon-pf2e",
+      "private": false
+    },
+    {
+      "label": "Battlezoo Ancestries: Dungeons - Heritages",
+      "type": "Item",
+      "name": "pf2e-battlezoo-dungeon-heritages",
+      "path": "packs/pf2e-battlezoo-dungeon-heritages.db",
+      "system": "pf2e",
+      "package": "battlezoo-ancestries-dungeon-pf2e",
+      "private": false
+    },
+    {
+      "label": "Battlezoo Ancestries: Dungeons - Feats",
+      "type": "Item",
+      "name": "pf2e-battlezoo-dungeon-feats",
+      "path": "packs/pf2e-battlezoo-dungeon-feats.db",
+      "system": "pf2e",
+      "package": "battlezoo-ancestries-dungeon-pf2e",
+      "private": false
+    }
+  ],
+  "system": [
+    "pf2e"
+  ],
+  "minimumSystemVersion": "3.7"
+}
