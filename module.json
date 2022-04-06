@@ -51,7 +51,7 @@
     "pf2e"
   ],
   "minimumSystemVersion": "3.7",
-  "url": "https://github.com/TikaelSol/Battlezoo-Dungeons",
-  "manifest": "https://raw.githubusercontent.com/TikaelSol/Battlezoo-Dungeons/master/module.json",
-  "download": "https://github.com/TikaelSol/Battlezoo-Dungeons/archive/refs/heads/main.zip"
+  "url": "https://github.com/Stonesnake/Battlezoo-Dungeons",
+  "manifest": "https://raw.githubusercontent.com/Stonesnake/Battlezoo-Dungeons/master/module.json",
+  "download": "https://github.com/Stonesnake/Battlezoo-Dungeons/archive/refs/heads/main.zip"
 }
