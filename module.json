@@ -1,9 +1,11 @@
 {
   "name": "battlezoo-ancestries-dungeons-pf2e",
-  "title": "Battlezoo Ancestries: Dungeons by Roll for Combat",
-  "description": "Now, you are the dungeon!",
+  "title": "Battlezoo Ancestries: Dungeons for Pathfinder 2e by Roll for Combat",
+  "description": "Now, you are the dungeon! With Battlezoo Ancestries Dungeons, the power of dungeons is in your hands. With the dungeon ancestry, play as a dungeon who awakened to sentience and then sapience, with a life force, a spirit, and even an avatar that you can use to interact with the world. Never before have you been able to play as the dungeon!",
   "author": "Roll for Combat",
-  "version": "1.0",
+  "authors": "Mark Seifter",
+  "url": "http://www.battlezoo.com",
+  "version": "1.0.1",
   "flags": {
     "battlezoo-ancestries-dungeons-pf2e": {
       "pf2e-homebrew": {
@@ -51,7 +53,7 @@
     "pf2e"
   ],
   "minimumSystemVersion": "3.7",
-  "url": "https://github.com/Stonesnake/Battlezoo-Dungeons-PF2",
-  "manifest": "https://raw.githubusercontent.com/Stonesnake/Battlezoo-Dungeons-PF2/master/module.json",
+  "url": "https://github.com/Stonesnake/Battlezoo-Dungeons",
+  "manifest": "https://raw.githubusercontent.com/Stonesnake/Battlezoo-Dungeons/master/module.json",
   "download": "https://github.com/Stonesnake/Battlezoo-Dungeons-PF2/archive/refs/heads/main.zip"
 }
